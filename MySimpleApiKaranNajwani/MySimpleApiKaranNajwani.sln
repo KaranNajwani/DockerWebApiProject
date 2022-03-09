@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySimpleApiKaranNajwani", "MySimpleApiKaranNajwani.csproj", "{10B43793-2AED-49C1-9B83-6343B3599542}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10B43793-2AED-49C1-9B83-6343B3599542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B43793-2AED-49C1-9B83-6343B3599542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B43793-2AED-49C1-9B83-6343B3599542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B43793-2AED-49C1-9B83-6343B3599542}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FEBFEC3-99BA-4C9F-A46B-48F542AFA0C0}
+	EndGlobalSection
+EndGlobal
